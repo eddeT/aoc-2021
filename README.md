@@ -2,4 +2,4 @@
 Advent of code 2021 challange
 
 
-Day 1: sonar-sweep.py
+Day 1: sonar-sweep
