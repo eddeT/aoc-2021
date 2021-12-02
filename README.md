@@ -3,3 +3,4 @@ Advent of code 2021 challange
 
 
 Day 1: sonar-sweep
+Day 2: dive
